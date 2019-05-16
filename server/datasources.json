@@ -1,1 +1,1 @@
-{"heroku-db":{"host":"ds135305.mlab.com","port":35305,"url":"mongodb://heroku_4fksq418:j2mjj06nqjr9oeqcpiliro53vh@ds135305.mlab.com:35305/heroku_4fksq418","database":"heroku_4fksq418","password":"j2mjj06nqjr9oeqcpiliro53vh","name":"heroku-db","user":"heroku_4fksq418","connector":"mongodb"}}
+{"heroku-db":{"url":"${MONGODB_URI}","name":"heroku-db","connector":"mongodb"}}
